@@ -9,7 +9,7 @@ Specs
 -
 MCU: STM32F107RCT6 with 256k of flash and 64k RAM
 
-WiFi chipset: ESP8266 module, connected via UART
+WiFi chipset: ESP8266 module, with 1MB of flash, connected via UART
 
 SD Card Slot: Comes from the factory with 1GB SD Card
 
