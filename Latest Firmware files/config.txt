@@ -1,0 +1,2 @@
+3DWiFi:1;bin_name:3DWIFI_V1.02.009.bin;
+ESP8266:1;user1:user1.1.2.2.bin;user2:user2.1.2.2.bin;
